@@ -1,8 +1,17 @@
+# 👋 Salut, c'est Am
+⬇️ *English below* ⬇️
+- 👀 Mes centres d'intérêts : HTML, CSS, Javascript & PHP ; Design ; Arts & dessins ; Musculation ; Minecraft
+- 🌱 Intégratrice web ; développeuse web & mobile en devenir
+- 💞️ Ouverte aux projets collaboratifs 
+- 📫 amyl@caramail.com
+- 🌐 Site en cours de création : https://am-yl.github.io/
+
+
 # 👋 Hi, I’m Am
-- 👀 I’m interested in HTML, CSS, Javascript & PHP ; Design ; Arts & drawing ; Working out
-- 🌱 I’m currently learning how to integrate website based on a design
+- 👀 I’m interested in HTML, CSS, Javascript & PHP ; Design ; Arts & drawing ; Working out ; Minecraft
+- 🌱 Web Integrator ; futur web & mobile developper
 - 💞️ I’m looking to collaborate on a lot of things
-- 📫 How to reach me amyl@caramail.com or twitter
+- 📫 amyl@caramail.com
 - 🌐 Website in progress : https://am-yl.github.io/
 
 <!---
