@@ -10,7 +10,7 @@
 # 👋 Hi, I’m Am
 - 👀 I’m interested in Arts & drawing ; Working out ; Gaming ; DIY & Crafts
 - 🌱 App designer & developer 
-- 💞️ I’m love to collaborate on projects
+- 💞️ I’d love to collaborate on projects
 - 📫 amyl@caramail.com
 - 🌐 Website in progress : https://am-yl.github.io/
 
