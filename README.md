@@ -1,8 +1,3 @@
-# 👋 Salut, c'est Amyl
-- 🌱 Conceptrice & dev
-- 🪩 Plus d'infos : ✨https://am-yl.github.io/✨
-
-
 # 👋 Hi, I’m Amyl
 - 🌱 App designer & developer 
 - 🪩 More infos: ✨https://am-yl.github.io/✨
