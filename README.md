@@ -1,18 +1,11 @@
-# 👋 Salut, c'est Am
-⬇️ *English below* ⬇️
-- 👀 Mes centres d'intérêts : Arts & dessins ; Musculation ; Jeux Vidéos ; Bricolage & Crafts en tout genre
+# 👋 Salut, c'est Amyl
 - 🌱 Conceptrice & dev
-- 💞️ Ouverte aux projets collaboratifs 
-- 📫 amyl@caramail.com
-- 🌐 Site en cours de création : https://am-yl.github.io/
+- 🪩 Plus d'infos : ✨https://am-yl.github.io/✨
 
 
-# 👋 Hi, I’m Am
-- 👀 I’m interested in Arts & drawing ; Working out ; Gaming ; DIY & Crafts
+# 👋 Hi, I’m Amyl
 - 🌱 App designer & developer 
-- 💞️ I’d love to collaborate on projects
-- 📫 amyl@caramail.com
-- 🌐 Website in progress : https://am-yl.github.io/
+- 🪩 More infos: ✨https://am-yl.github.io/✨
 
 <!---
 am-yl/am-yl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
