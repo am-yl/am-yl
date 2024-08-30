@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amyl
-- 🌱 App designer & developer 
-- 🪩 More infos: ✨ https://am-yl.github.io/ ✨
+🌱 App designer & developer
+🪩 https://am-yl.github.io/ 🪩
 
 ___
 *Repo with 'TIW' or 'CDA' as prefix were created during class*
