@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Amyl
 🌱 App designer & developer
 
-🪩 https://am-yl.github.io/ 🪩
+🪩 https://am-yl.me 🪩
 
 ___
 *Repo with 'TIW' or 'CDA' as prefix were created during class*
